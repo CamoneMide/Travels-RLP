@@ -343,6 +343,12 @@ a{
     color: #ffffff;
 }
 
+.fav .fa-linkedin-in{
+    font-size: 16px;
+    padding: 2px 4px;
+    color: #3b5998;
+}
+
 
 
 /* Media queries */
